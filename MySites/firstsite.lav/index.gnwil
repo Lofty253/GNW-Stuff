@@ -1,3 +1,5 @@
+<bg>ff00ff
+<title>first site!
 <txt>first site on GNW! (great new web)
 <txt>wowie!
 <img>/guy.png
@@ -6,11 +8,15 @@
 <txt>dont click here!
 
 <func>newText
+<bg>0000ff
+<title>why you click
 <txt>why did you click :(
 <button>2ndClick
 <txt>well dont click here at least
 
 <func>2ndClick
+<bg>ff0000
+<title>UNCLICK NOW
 <txt>AAAAA
 <button>redir
 <txt>UNCLICK
