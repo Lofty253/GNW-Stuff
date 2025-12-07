@@ -4,8 +4,17 @@
 <txt>wowie!
 <img>/guy.png
 <txt>look at this guy i made in ms paint!
+<button>redir1
+<txt>go to flashing lights page
+<button>redir2
+<txt>go to infinite text page
 <button>newText
 <txt>dont click here!
+
+<func>redir1
+<redir>/flashinglights.gnwil
+<func>redir2
+<redir>/infinitetext.gnwil
 
 <func>newText
 <bg>0000ff
@@ -22,4 +31,8 @@
 <txt>UNCLICK
 
 <func>redir
-<redir>firstsite.lav/index.gnwil
+<bg>000000
+<title> AAAAAA
+<txt> AAAAA
+<wait>1
+<redir>/index.gnwil

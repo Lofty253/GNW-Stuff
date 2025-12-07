@@ -1,0 +1,34 @@
+<title>flashing lights
+<txt>the bg will flash bright colors
+<button>flashes
+<txt>ok! do it!
+
+<func>flashes
+<run>flash
+<wait>0.121
+<run>flash
+<wait>0.213
+<run>flash
+<wait>0.689
+<run>flash
+<wait>0.481
+<run>flashes
+
+<func>flash
+<bg>ff0000
+<wait>0.05
+<bg>00ff00
+<wait>0.05
+<bg>ff00ff
+<wait>0.05
+<bg>0000ff
+<wait>0.05
+<bg>ffffff
+<wait>0.05
+<bg>00ffff
+<wait>0.05
+<bg>ffff00
+<wait>0.05
+<bg>000000
+<wait>0.05
+<run>flash

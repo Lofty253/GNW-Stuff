@@ -1,0 +1,44 @@
+<title>10s timer
+
+<button>run
+<txt>count down
+
+<func>run
+<del>0
+<txt>10
+<wait>1
+<del>0
+<txt>9
+<wait>1
+<del>0
+<txt>8
+<wait>1
+<del>0
+<txt>7
+<wait>1
+<del>0
+<txt>6
+<wait>1
+<del>0
+<txt>5
+<wait>1
+<del>0
+<txt>4
+<wait>1
+<del>0
+<txt>3
+<wait>1
+<del>0
+<txt>2
+<wait>1
+<del>0
+<txt>1
+<wait>1
+<del>0
+<txt>0
+<txt>COMPLETE!!
+<button>redir
+<txt>click here to restart
+
+<func>redir
+<redir>/10stimer.gnwil
