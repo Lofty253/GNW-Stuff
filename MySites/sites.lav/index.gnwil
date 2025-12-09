@@ -1,0 +1,9 @@
+<title>sites.lav
+
+<button>firstsite.lav<txt>firstsite.lav | the first site
+<button>gnwildocs.lav<txt>gnwildocs.lav | the doccumentation for the language this uses
+<button>applepine.cool<txt>applepine.cool | some site my sister made for fun
+
+<func>firstsite.lav<redir>firstsite.lav
+<func>gnwildocs.lav<redir>gnwildocs.lav
+<func>applepine.cool<redir>applepine.cool
